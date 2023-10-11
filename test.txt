@@ -1,4 +1,4 @@
-This is my new project to know about stagging area
-. will move all files to stagging area
-Now seeing the modified statement  -use git diff
-this statement is added to understand more about commit
+Hi I am Surya Rajendra Babu
+I am from India
+I have two master's degrees one in Business Administration and another one in Mathematics
+I have around 10 years of experience in manual and automation testing
