@@ -1,0 +1,3 @@
+This is my new project to know about stagging area
+. will move all files to stagging area
+Now seeing the modified statement  -use git diff

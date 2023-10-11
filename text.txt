@@ -1,0 +1,6 @@
+Working directory -> Stagging area -> local repository -> Remote repository
+test-project      -> git add       -> git commit       -> git push
+to create git folder use command git init - this will initialize empty git repository ls
+tracked-files moved to stagging area
+untracked - files that are not moved to stagging area
+making changes to know the difference between tracking and untracking files
